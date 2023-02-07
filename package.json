@@ -1,0 +1,22 @@
+{
+  "name": "pneumatic",
+  "version": "1.0.0",
+  "description": "Pneumatic is a minimalistic, responsive [Pelican] theme. The name was chosen because it's based on the [Skeleton] framework, and pelicans (like most birds) possess [skeletal pneumaticity]. See the theme in action at **[kevinyap.ca]**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlehr/pneumatic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlehr/pneumatic/issues"
+  },
+  "homepage": "https://github.com/timlehr/pneumatic#readme",
+  "dependencies": {
+    "sass": "^1.58.0"
+  }
+}
